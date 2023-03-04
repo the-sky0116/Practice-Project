@@ -1,0 +1,4049 @@
+fileFormatVersion: 2
+guid: a77bde0cb03549540bb036e6cf1be46f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -330686154596502854
+    second: "TX Tileset Ground - \u8907\u88FD_0"
+  - first:
+      213: 6773739169390603855
+    second: "TX Tileset Ground - \u8907\u88FD_1"
+  - first:
+      213: 7153300940788611999
+    second: "TX Tileset Ground - \u8907\u88FD_2"
+  - first:
+      213: -4068542579714779102
+    second: "TX Tileset Ground - \u8907\u88FD_3"
+  - first:
+      213: -5454096806299380440
+    second: "TX Tileset Ground - \u8907\u88FD_4"
+  - first:
+      213: -7076405956017633702
+    second: "TX Tileset Ground - \u8907\u88FD_5"
+  - first:
+      213: -2664944189940661904
+    second: "TX Tileset Ground - \u8907\u88FD_6"
+  - first:
+      213: 336418599170349117
+    second: "TX Tileset Ground - \u8907\u88FD_7"
+  - first:
+      213: 6055834545278366151
+    second: "TX Tileset Ground - \u8907\u88FD_8"
+  - first:
+      213: -4927371850719913545
+    second: "TX Tileset Ground - \u8907\u88FD_9"
+  - first:
+      213: 1977223661931976364
+    second: "TX Tileset Ground - \u8907\u88FD_10"
+  - first:
+      213: 3704327815082012367
+    second: "TX Tileset Ground - \u8907\u88FD_11"
+  - first:
+      213: -2590550309924240265
+    second: "TX Tileset Ground - \u8907\u88FD_12"
+  - first:
+      213: -2257729876641922910
+    second: "TX Tileset Ground - \u8907\u88FD_13"
+  - first:
+      213: 7260164097079498228
+    second: "TX Tileset Ground - \u8907\u88FD_14"
+  - first:
+      213: -54418786251582137
+    second: "TX Tileset Ground - \u8907\u88FD_15"
+  - first:
+      213: -3317044575882688778
+    second: "TX Tileset Ground - \u8907\u88FD_16"
+  - first:
+      213: 7641838272719401005
+    second: "TX Tileset Ground - \u8907\u88FD_17"
+  - first:
+      213: -8951270862496003763
+    second: "TX Tileset Ground - \u8907\u88FD_18"
+  - first:
+      213: -8781863496212430084
+    second: "TX Tileset Ground - \u8907\u88FD_19"
+  - first:
+      213: -2533540356672829768
+    second: "TX Tileset Ground - \u8907\u88FD_20"
+  - first:
+      213: 2861895751082022733
+    second: "TX Tileset Ground - \u8907\u88FD_21"
+  - first:
+      213: -2541269061866657025
+    second: "TX Tileset Ground - \u8907\u88FD_22"
+  - first:
+      213: 8170161409637403319
+    second: "TX Tileset Ground - \u8907\u88FD_23"
+  - first:
+      213: 8785041677456263074
+    second: "TX Tileset Ground - \u8907\u88FD_24"
+  - first:
+      213: -6039924685957948671
+    second: "TX Tileset Ground - \u8907\u88FD_25"
+  - first:
+      213: 1393450597423907211
+    second: "TX Tileset Ground - \u8907\u88FD_26"
+  - first:
+      213: -3430344429626154319
+    second: "TX Tileset Ground - \u8907\u88FD_27"
+  - first:
+      213: -150757382696020989
+    second: "TX Tileset Ground - \u8907\u88FD_28"
+  - first:
+      213: 7284206299498302430
+    second: "TX Tileset Ground - \u8907\u88FD_29"
+  - first:
+      213: 7424938819281001614
+    second: "TX Tileset Ground - \u8907\u88FD_30"
+  - first:
+      213: -6227824546853867260
+    second: "TX Tileset Ground - \u8907\u88FD_31"
+  - first:
+      213: 5903548822737735550
+    second: "TX Tileset Ground - \u8907\u88FD_32"
+  - first:
+      213: 8407969105374400146
+    second: "TX Tileset Ground - \u8907\u88FD_33"
+  - first:
+      213: 7657533210990740523
+    second: "TX Tileset Ground - \u8907\u88FD_34"
+  - first:
+      213: -3944143376822320367
+    second: "TX Tileset Ground - \u8907\u88FD_35"
+  - first:
+      213: 8989218132694484747
+    second: "TX Tileset Ground - \u8907\u88FD_36"
+  - first:
+      213: 3576173782374719742
+    second: "TX Tileset Ground - \u8907\u88FD_37"
+  - first:
+      213: -2827910482364128016
+    second: "TX Tileset Ground - \u8907\u88FD_38"
+  - first:
+      213: -4402286822833873424
+    second: "TX Tileset Ground - \u8907\u88FD_39"
+  - first:
+      213: -7707914763988340201
+    second: "TX Tileset Ground - \u8907\u88FD_40"
+  - first:
+      213: -6524000046800783816
+    second: "TX Tileset Ground - \u8907\u88FD_41"
+  - first:
+      213: -8053073796276960798
+    second: "TX Tileset Ground - \u8907\u88FD_42"
+  - first:
+      213: 4167285795093302353
+    second: "TX Tileset Ground - \u8907\u88FD_43"
+  - first:
+      213: 2750197567701839696
+    second: "TX Tileset Ground - \u8907\u88FD_44"
+  - first:
+      213: 6534033057157697462
+    second: "TX Tileset Ground - \u8907\u88FD_45"
+  - first:
+      213: 2356342920990908707
+    second: "TX Tileset Ground - \u8907\u88FD_46"
+  - first:
+      213: -8899866638977627031
+    second: "TX Tileset Ground - \u8907\u88FD_47"
+  - first:
+      213: 8943922392547723866
+    second: "TX Tileset Ground - \u8907\u88FD_48"
+  - first:
+      213: 2183593914017935009
+    second: "TX Tileset Ground - \u8907\u88FD_49"
+  - first:
+      213: -7891841722620078002
+    second: "TX Tileset Ground - \u8907\u88FD_50"
+  - first:
+      213: 8045034874706860857
+    second: "TX Tileset Ground - \u8907\u88FD_51"
+  - first:
+      213: -6112427337529280291
+    second: "TX Tileset Ground - \u8907\u88FD_52"
+  - first:
+      213: 8869497257751386403
+    second: "TX Tileset Ground - \u8907\u88FD_53"
+  - first:
+      213: 4785139094219725437
+    second: "TX Tileset Ground - \u8907\u88FD_54"
+  - first:
+      213: -2636279518970020211
+    second: "TX Tileset Ground - \u8907\u88FD_55"
+  - first:
+      213: 4178245182852820176
+    second: "TX Tileset Ground - \u8907\u88FD_56"
+  - first:
+      213: -8996629265551282922
+    second: "TX Tileset Ground - \u8907\u88FD_57"
+  - first:
+      213: 4362351056433127757
+    second: "TX Tileset Ground - \u8907\u88FD_58"
+  - first:
+      213: 5289325627202584454
+    second: "TX Tileset Ground - \u8907\u88FD_59"
+  - first:
+      213: 1809449180421028920
+    second: "TX Tileset Ground - \u8907\u88FD_60"
+  - first:
+      213: -1579821539188540647
+    second: "TX Tileset Ground - \u8907\u88FD_61"
+  - first:
+      213: 924797498683404510
+    second: "TX Tileset Ground - \u8907\u88FD_62"
+  - first:
+      213: 6635800074150114498
+    second: "TX Tileset Ground - \u8907\u88FD_63"
+  - first:
+      213: -2665865324209930307
+    second: "TX Tileset Ground - \u8907\u88FD_64"
+  - first:
+      213: 8481042811493690315
+    second: "TX Tileset Ground - \u8907\u88FD_65"
+  - first:
+      213: 7998369327982415150
+    second: "TX Tileset Ground - \u8907\u88FD_66"
+  - first:
+      213: 1132984559570618404
+    second: "TX Tileset Ground - \u8907\u88FD_67"
+  - first:
+      213: 1058963583752982471
+    second: "TX Tileset Ground - \u8907\u88FD_68"
+  - first:
+      213: -7649286241166508584
+    second: "TX Tileset Ground - \u8907\u88FD_69"
+  - first:
+      213: 7057230543507108655
+    second: "TX Tileset Ground - \u8907\u88FD_70"
+  - first:
+      213: -129207184526614711
+    second: "TX Tileset Ground - \u8907\u88FD_71"
+  - first:
+      213: 328464390485371403
+    second: "TX Tileset Ground - \u8907\u88FD_72"
+  - first:
+      213: 7941274553698031170
+    second: "TX Tileset Ground - \u8907\u88FD_73"
+  - first:
+      213: -5174899219743442446
+    second: "TX Tileset Ground - \u8907\u88FD_74"
+  - first:
+      213: 5658934043481641134
+    second: "TX Tileset Ground - \u8907\u88FD_75"
+  - first:
+      213: 2515368652865633547
+    second: "TX Tileset Ground - \u8907\u88FD_76"
+  - first:
+      213: -5427113795945681097
+    second: "TX Tileset Ground - \u8907\u88FD_77"
+  - first:
+      213: 6858924706201411784
+    second: "TX Tileset Ground - \u8907\u88FD_78"
+  - first:
+      213: 4385060351593561399
+    second: "TX Tileset Ground - \u8907\u88FD_79"
+  - first:
+      213: -8947545693103191305
+    second: "TX Tileset Ground - \u8907\u88FD_80"
+  - first:
+      213: -2325291357566760247
+    second: "TX Tileset Ground - \u8907\u88FD_81"
+  - first:
+      213: -7741830529722424856
+    second: "TX Tileset Ground - \u8907\u88FD_82"
+  - first:
+      213: -2859554272202205235
+    second: "TX Tileset Ground - \u8907\u88FD_83"
+  - first:
+      213: 1057879551638986343
+    second: "TX Tileset Ground - \u8907\u88FD_84"
+  - first:
+      213: 2161223590376689708
+    second: "TX Tileset Ground - \u8907\u88FD_85"
+  - first:
+      213: 8108973422927594282
+    second: "TX Tileset Ground - \u8907\u88FD_86"
+  - first:
+      213: -1740462170188695440
+    second: "TX Tileset Ground - \u8907\u88FD_87"
+  - first:
+      213: -3979950338763747371
+    second: "TX Tileset Ground - \u8907\u88FD_88"
+  - first:
+      213: -210538398241705440
+    second: "TX Tileset Ground - \u8907\u88FD_89"
+  - first:
+      213: -3671036215332857074
+    second: "TX Tileset Ground - \u8907\u88FD_90"
+  - first:
+      213: 274909024704697676
+    second: "TX Tileset Ground - \u8907\u88FD_91"
+  - first:
+      213: -3505219810966162897
+    second: "TX Tileset Ground - \u8907\u88FD_92"
+  - first:
+      213: 1260957202347915146
+    second: "TX Tileset Ground - \u8907\u88FD_93"
+  - first:
+      213: 8972343577611729270
+    second: "TX Tileset Ground - \u8907\u88FD_94"
+  - first:
+      213: -5653422122211583543
+    second: "TX Tileset Ground - \u8907\u88FD_95"
+  - first:
+      213: 7326399213265974525
+    second: "TX Tileset Ground - \u8907\u88FD_96"
+  - first:
+      213: -5950714673188515083
+    second: "TX Tileset Ground - \u8907\u88FD_97"
+  - first:
+      213: 1267027681184825329
+    second: "TX Tileset Ground - \u8907\u88FD_98"
+  - first:
+      213: 6372273025788572137
+    second: "TX Tileset Ground - \u8907\u88FD_99"
+  - first:
+      213: 9062577045278595594
+    second: "TX Tileset Ground - \u8907\u88FD_100"
+  - first:
+      213: -720917736499277576
+    second: "TX Tileset Ground - \u8907\u88FD_101"
+  - first:
+      213: 1215919172369405455
+    second: "TX Tileset Ground - \u8907\u88FD_102"
+  - first:
+      213: 2254176083707119376
+    second: "TX Tileset Ground - \u8907\u88FD_103"
+  - first:
+      213: -9095499333131906616
+    second: "TX Tileset Ground - \u8907\u88FD_104"
+  - first:
+      213: 7792433596076427054
+    second: "TX Tileset Ground - \u8907\u88FD_105"
+  - first:
+      213: -98864545544501379
+    second: "TX Tileset Ground - \u8907\u88FD_106"
+  - first:
+      213: 4529141690624159433
+    second: "TX Tileset Ground - \u8907\u88FD_107"
+  - first:
+      213: 2043665754697470821
+    second: "TX Tileset Ground - \u8907\u88FD_108"
+  - first:
+      213: -5699961600515136131
+    second: "TX Tileset Ground - \u8907\u88FD_109"
+  - first:
+      213: -1097874917539336335
+    second: "TX Tileset Ground - \u8907\u88FD_110"
+  - first:
+      213: -3985297704799712804
+    second: "TX Tileset Ground - \u8907\u88FD_111"
+  - first:
+      213: 8807797649015264537
+    second: "TX Tileset Ground - \u8907\u88FD_112"
+  - first:
+      213: -6700051396468481751
+    second: "TX Tileset Ground - \u8907\u88FD_113"
+  - first:
+      213: -472997344299509294
+    second: "TX Tileset Ground - \u8907\u88FD_114"
+  - first:
+      213: 5146747890335930088
+    second: "TX Tileset Ground - \u8907\u88FD_115"
+  - first:
+      213: -1563572628550932068
+    second: "TX Tileset Ground - \u8907\u88FD_116"
+  - first:
+      213: -3601530010093221706
+    second: "TX Tileset Ground - \u8907\u88FD_117"
+  - first:
+      213: -6387420474653001361
+    second: "TX Tileset Ground - \u8907\u88FD_118"
+  - first:
+      213: 3023733099791598544
+    second: "TX Tileset Ground - \u8907\u88FD_119"
+  - first:
+      213: -4348756686430345863
+    second: "TX Tileset Ground - \u8907\u88FD_120"
+  - first:
+      213: -7634518793791479133
+    second: "TX Tileset Ground - \u8907\u88FD_121"
+  - first:
+      213: -4610878778169555361
+    second: "TX Tileset Ground - \u8907\u88FD_122"
+  - first:
+      213: -8406311259988239365
+    second: "TX Tileset Ground - \u8907\u88FD_123"
+  - first:
+      213: 8863791831384756010
+    second: "TX Tileset Ground - \u8907\u88FD_124"
+  - first:
+      213: -3232179389653925564
+    second: "TX Tileset Ground - \u8907\u88FD_125"
+  - first:
+      213: 3429351678256180360
+    second: "TX Tileset Ground - \u8907\u88FD_126"
+  - first:
+      213: -530548862705033846
+    second: "TX Tileset Ground - \u8907\u88FD_127"
+  - first:
+      213: -4234784642975503691
+    second: "TX Tileset Ground - \u8907\u88FD_128"
+  - first:
+      213: 5848695335595016088
+    second: "TX Tileset Ground - \u8907\u88FD_129"
+  - first:
+      213: -7041350395933856930
+    second: "TX Tileset Ground - \u8907\u88FD_130"
+  - first:
+      213: -3107426205341794088
+    second: "TX Tileset Ground - \u8907\u88FD_131"
+  - first:
+      213: 8219134740800957642
+    second: "TX Tileset Ground - \u8907\u88FD_132"
+  - first:
+      213: 8951188725401812424
+    second: "TX Tileset Ground - \u8907\u88FD_133"
+  - first:
+      213: -4465091459517966471
+    second: "TX Tileset Ground - \u8907\u88FD_134"
+  - first:
+      213: 1166785723262543815
+    second: "TX Tileset Ground - \u8907\u88FD_135"
+  - first:
+      213: -7680281077176605484
+    second: "TX Tileset Ground - \u8907\u88FD_136"
+  - first:
+      213: 6474719885300940951
+    second: "TX Tileset Ground - \u8907\u88FD_137"
+  - first:
+      213: 4680060831499300157
+    second: "TX Tileset Ground - \u8907\u88FD_138"
+  - first:
+      213: 6691290229338607573
+    second: "TX Tileset Ground - \u8907\u88FD_139"
+  - first:
+      213: 7848279974320584235
+    second: "TX Tileset Ground - \u8907\u88FD_140"
+  - first:
+      213: 1133069593241299019
+    second: "TX Tileset Ground - \u8907\u88FD_141"
+  - first:
+      213: 7611869311279633782
+    second: "TX Tileset Ground - \u8907\u88FD_142"
+  - first:
+      213: -1201332384397614146
+    second: "TX Tileset Ground - \u8907\u88FD_143"
+  - first:
+      213: -2200523154335762558
+    second: "TX Tileset Ground - \u8907\u88FD_144"
+  - first:
+      213: -3241153487503176812
+    second: "TX Tileset Ground - \u8907\u88FD_145"
+  - first:
+      213: -2577638938187379851
+    second: "TX Tileset Ground - \u8907\u88FD_146"
+  - first:
+      213: -8112407482062083424
+    second: "TX Tileset Ground - \u8907\u88FD_147"
+  - first:
+      213: -6076649792202943314
+    second: "TX Tileset Ground - \u8907\u88FD_148"
+  - first:
+      213: 8085667839225767509
+    second: "TX Tileset Ground - \u8907\u88FD_149"
+  - first:
+      213: 6983199859533961409
+    second: "TX Tileset Ground - \u8907\u88FD_150"
+  - first:
+      213: -4606883258435254480
+    second: "TX Tileset Ground - \u8907\u88FD_151"
+  - first:
+      213: 3533496441676301123
+    second: "TX Tileset Ground - \u8907\u88FD_152"
+  - first:
+      213: -1159923501227875294
+    second: "TX Tileset Ground - \u8907\u88FD_153"
+  - first:
+      213: 3703005820539803779
+    second: "TX Tileset Ground - \u8907\u88FD_154"
+  - first:
+      213: 3863888599200509026
+    second: "TX Tileset Ground - \u8907\u88FD_155"
+  - first:
+      213: -586533020056234966
+    second: "TX Tileset Ground - \u8907\u88FD_156"
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2b227c1ba296bf0800000000000000
+      internalID: -330686154596502854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_1"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e2da0c2e7210e50800000000000000
+      internalID: 6773739169390603855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_2"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b3c2b4e41a54360800000000000000
+      internalID: 7153300940788611999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_3"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2289c8e6412a987c0800000000000000
+      internalID: -4068542579714779102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825dee90ad72f44b0800000000000000
+      internalID: -5454096806299380440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_5"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a564c11864e8bcd90800000000000000
+      internalID: -7076405956017633702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0718854f067340bd0800000000000000
+      internalID: -2664944189940661904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_7"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38126bfee23ba400800000000000000
+      internalID: 336418599170349117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c13bd90f65aa0450800000000000000
+      internalID: 6055834545278366151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_9"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9949978657e9bb0800000000000000
+      internalID: -4927371850719913545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_10"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6d3fad172807b10800000000000000
+      internalID: 1977223661931976364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_11"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceef8d758a686330800000000000000
+      internalID: 3704327815082012367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_12"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774003ce7348c0cd0800000000000000
+      internalID: -2590550309924240265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_13"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0c8ff93aeeaa0e0800000000000000
+      internalID: -2257729876641922910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_14"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5d771c7c841c460800000000000000
+      internalID: 7260164097079498228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_15"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745dd58f66aae3ff0800000000000000
+      internalID: -54418786251582137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_16"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6406e588d77f1d0800000000000000
+      internalID: -3317044575882688778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_17"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20bc6cbb634d0a60800000000000000
+      internalID: 7641838272719401005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_18"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d490f909392b6c380800000000000000
+      internalID: -8951270862496003763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_19"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2c942bdad802680800000000000000
+      internalID: -8781863496212430084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_20"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b64668087e07dcd0800000000000000
+      internalID: -2533540356672829768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_21"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47917bc50f77b720800000000000000
+      internalID: 2861895751082022733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_22"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa6fb0a0499bbcd0800000000000000
+      internalID: -2541269061866657025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_23"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baca03c38e326170800000000000000
+      internalID: 8170161409637403319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_24"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a748c94cdcbae970800000000000000
+      internalID: 8785041677456263074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_25"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b1d5fbf70ed2ca0800000000000000
+      internalID: -6039924685957948671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_26"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81028f7fe7865310800000000000000
+      internalID: 1393450597423907211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_27"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2a4ee7ae7f460d0800000000000000
+      internalID: -3430344429626154319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_28"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304d22d85f668edf0800000000000000
+      internalID: -150757382696020989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_29"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb42483903b61560800000000000000
+      internalID: 7284206299498302430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_30"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c9042648eaa0760800000000000000
+      internalID: 7424938819281001614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_31"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401315132925299a0800000000000000
+      internalID: -6227824546853867260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_32"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f457d306e9de150800000000000000
+      internalID: 5903548822737735550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_33"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ecc40aa5b1fa470800000000000000
+      internalID: 8407969105374400146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_34"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b240cd052e5054a60800000000000000
+      internalID: 7657533210990740523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_35"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113cb49ee769349c0800000000000000
+      internalID: -3944143376822320367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_36"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0741c7c34e10cc70800000000000000
+      internalID: 8989218132694484747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_37"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0a2819b1f11a130800000000000000
+      internalID: 3576173782374719742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_38"
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 352
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f42512366e31c8d0800000000000000
+      internalID: -2827910482364128016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_39"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd9a9d757fe7e2c0800000000000000
+      internalID: -4402286822833873424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_40"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7127c754c5cf70590800000000000000
+      internalID: -7707914763988340201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_41"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836bec7e5881675a0800000000000000
+      internalID: -6524000046800783816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_42"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1c7ee9c0cbd3090800000000000000
+      internalID: -8053073796276960798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_43"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c4116f95c25d930800000000000000
+      internalID: 4167285795093302353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_44"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fe20ddd1aaa2620800000000000000
+      internalID: 2750197567701839696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_45"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf4b8a527c8daa50800000000000000
+      internalID: 6534033057157697462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_46"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3216ba6f66963b020800000000000000
+      internalID: 2356342920990908707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_47"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c836302725d7480800000000000000
+      internalID: -8899866638977627031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_48"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a087277023f1c70800000000000000
+      internalID: 8943922392547723866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_49"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae6eba781fad4e10800000000000000
+      internalID: 2183593914017935009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_50"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e489f9b14cb8a7290800000000000000
+      internalID: -7891841722620078002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_51"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b18881894b5af60800000000000000
+      internalID: 8045034874706860857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_52"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd83e27b8bb4c2ba0800000000000000
+      internalID: -6112427337529280291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_53"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329929863c8c61b70800000000000000
+      internalID: 8869497257751386403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_54"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a1dc747aa386240800000000000000
+      internalID: 4785139094219725437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_55"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e772fbebd0a6bd0800000000000000
+      internalID: -2636279518970020211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_56"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dced644bdb1cf930800000000000000
+      internalID: 4178245182852820176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_57"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61daee2695d852380800000000000000
+      internalID: -8996629265551282922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_58"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d412f305c2f2a8c30800000000000000
+      internalID: 4362351056433127757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_59"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fb7c642a5776940800000000000000
+      internalID: 5289325627202584454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_60"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cfd1651747c1910800000000000000
+      internalID: 1809449180421028920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_61"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bf72c2ea8531ae0800000000000000
+      internalID: -1579821539188540647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_62"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0b13edc6a85dc00800000000000000
+      internalID: 924797498683404510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_63"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c47a3c6209171c50800000000000000
+      internalID: 6635800074150114498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_64"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf7f6bac91f00bd0800000000000000
+      internalID: -2665865324209930307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_65"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb26f7a087b2b570800000000000000
+      internalID: 8481042811493690315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_66"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d85c0d68aeffe60800000000000000
+      internalID: 7998369327982415150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_67"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4288531447b29bf00800000000000000
+      internalID: 1132984559570618404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_68"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfcbafc4c132be00800000000000000
+      internalID: 1058963583752982471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_69"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddbcf9f0b648d590800000000000000
+      internalID: -7649286241166508584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_70"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2337cbd9c150f160800000000000000
+      internalID: 7057230543507108655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_71"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fdcdf00c6f43ef0800000000000000
+      internalID: -129207184526614711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_72"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0aee347f90fe8400800000000000000
+      internalID: 328464390485371403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_73"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2461505c123153e60800000000000000
+      internalID: 7941274553698031170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_74"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9feb2d3901f28b0800000000000000
+      internalID: -5174899219743442446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_75"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0961db782988e40800000000000000
+      internalID: 5658934043481641134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_76"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d7539767268e220800000000000000
+      internalID: 2515368652865633547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_77"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f2905b1c40fa4b0800000000000000
+      internalID: -5427113795945681097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_78"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0294e1eabcf2f50800000000000000
+      internalID: 6858924706201411784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_79"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d326f182ddadc30800000000000000
+      internalID: 4385060351593561399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_80"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa0207299ee3d380800000000000000
+      internalID: -8947545693103191305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_81"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca82f884d7eabfd0800000000000000
+      internalID: -2325291357566760247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_82"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1ee94b62e7f8490800000000000000
+      internalID: -7741830529722424856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_83"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7df6d3a82d058d0800000000000000
+      internalID: -2859554272202205235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_84"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e579ae8d75eae00800000000000000
+      internalID: 1057879551638986343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_85"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20d890a7653efd10800000000000000
+      internalID: 2161223590376689708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_86"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23ceae6d5cd88070800000000000000
+      internalID: 8108973422927594282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_87"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078b5e8a0e2a8d7e0800000000000000
+      internalID: -1740462170188695440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_88"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df8a4ae04064c8c0800000000000000
+      internalID: -3979950338763747371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_89"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02239393174041df0800000000000000
+      internalID: -210538398241705440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_90"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b9d7b130cdd0dc0800000000000000
+      internalID: -3671036215332857074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_91"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45921b2d4ca0d300800000000000000
+      internalID: 274909024704697676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_92"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2233b34725fa5fc0800000000000000
+      internalID: -3505219810966162897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_93"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87faea05e1df7110800000000000000
+      internalID: 1260957202347915146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_94"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679fd4242fa248c70800000000000000
+      internalID: 8972343577611729270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_95"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c95e3078820b81b0800000000000000
+      internalID: -5653422122211583543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_96"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df47b6d74499ca560800000000000000
+      internalID: 7326399213265974525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_97"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2d4e07880da6da0800000000000000
+      internalID: -5950714673188515083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_98"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffbb9986f2659110800000000000000
+      internalID: 1267027681184825329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_99"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e17ee12e8cde6850800000000000000
+      internalID: 6372273025788572137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_100"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a907d9ecdb4cd70800000000000000
+      internalID: 9062577045278595594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_101"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f09ea36329cef5f0800000000000000
+      internalID: -720917736499277576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_102"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f065aa88b00dfd010800000000000000
+      internalID: 1215919172369405455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_103"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0174b8a7431784f10800000000000000
+      internalID: 2254176083707119376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_104"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1ded9eb8b46c180800000000000000
+      internalID: -9095499333131906616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_105"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2784fdc119442c60800000000000000
+      internalID: 7792433596076427054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_106"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7780f93833c0aef0800000000000000
+      internalID: -98864545544501379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_107"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cea0170f5ebade30800000000000000
+      internalID: 4529141690624159433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_108"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5639f541d2f8c5c10800000000000000
+      internalID: 2043665754697470821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_109"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75adefbf1ba5e0b0800000000000000
+      internalID: -5699961600515136131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_110"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fa14c449093c0f0800000000000000
+      internalID: -1097874917539336335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_111"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9cb3d3ad061b8c0800000000000000
+      internalID: -3985297704799712804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_112"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915531bcb459b3a70800000000000000
+      internalID: 8807797649015264537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_113"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921e2a8d0c2a403a0800000000000000
+      internalID: -6700051396468481751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_114"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d91351eb639f69f0800000000000000
+      internalID: -472997344299509294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_115"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6d6f700fbec6740800000000000000
+      internalID: 5146747890335930088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_116"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99a2be7af21d4ae0800000000000000
+      internalID: -1563572628550932068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_117"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b80c7c998bc40ec0800000000000000
+      internalID: -3601530010093221706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_118"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6930499be25b57a0800000000000000
+      internalID: -6387420474653001361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_119"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d34bacdb3576f920800000000000000
+      internalID: 3023733099791598544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_120"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975e6ba95dc16a3c0800000000000000
+      internalID: -4348756686430345863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_121"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2e3014b9dbc0690800000000000000
+      internalID: -7634518793791479133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_122"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5601d44e2ed200c0800000000000000
+      internalID: -4610878778169555361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_123"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbd8059278c65b80800000000000000
+      internalID: -8406311259988239365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_124"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f82b055b3820b70800000000000000
+      internalID: 8863791831384756010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_125"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441c65d48fdf423d0800000000000000
+      internalID: -3232179389653925564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_126"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c69509e21879f20800000000000000
+      internalID: 3429351678256180360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_127"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d9a7ece9c13a8f0800000000000000
+      internalID: -530548862705033846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_128"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba6a27ddc50b35c0800000000000000
+      internalID: -4234784642975503691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_129"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fff958b6dba2150800000000000000
+      internalID: 5848695335595016088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_130"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b6e4f1f19184e90800000000000000
+      internalID: -7041350395933856930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_131"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0ccd0845430e4d0800000000000000
+      internalID: -3107426205341794088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_132"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc638aff7b301270800000000000000
+      internalID: 8219134740800957642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_133"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd7e0768b2093c70800000000000000
+      internalID: 8951188725401812424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_134"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9771dc189fec802c0800000000000000
+      internalID: -4465091459517966471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_135"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7af04fe61413010800000000000000
+      internalID: 1166785723262543815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_136"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4ebbb5d092a6590800000000000000
+      internalID: -7680281077176605484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_137"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790458f5e63dad950800000000000000
+      internalID: 6474719885300940951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_138"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d2cbcb78ae2f040800000000000000
+      internalID: 4680060831499300157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_139"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df05c8f20d3cdc50800000000000000
+      internalID: 6691290229338607573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_140"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26b03ffd01baec60800000000000000
+      internalID: 7848279974320584235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_141"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48a1f2bac879bf00800000000000000
+      internalID: 1133069593241299019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_142"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67515872fcac2a960800000000000000
+      internalID: 7611869311279633782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_143"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3aec2bf82045fe0800000000000000
+      internalID: -1201332384397614146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_144"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2877bc999db2671e0800000000000000
+      internalID: -2200523154335762558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_145"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bcad2531c1503d0800000000000000
+      internalID: -3241153487503176812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_146"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b402aea036a3cd0800000000000000
+      internalID: -2577638938187379851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_147"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aae77e5060fa6f80800000000000000
+      internalID: -8112407482062083424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_148"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4da4f95376baba0800000000000000
+      internalID: -6076649792202943314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_149"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5562ad06f00163070800000000000000
+      internalID: 8085667839225767509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_150"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8541f064f49e060800000000000000
+      internalID: 6983199859533961409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_151"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037c543b5101110c0800000000000000
+      internalID: -4606883258435254480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_152"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343093dda40890130800000000000000
+      internalID: 3533496441676301123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_153"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2246fae98bf17efe0800000000000000
+      internalID: -1159923501227875294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_154"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3889a76ac28b36330800000000000000
+      internalID: 3703005820539803779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_155"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c270f853a4f9530800000000000000
+      internalID: 3863888599200509026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Tileset Ground - \u8907\u88FD_156"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24d28a63573cd7f0800000000000000
+      internalID: -586533020056234966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "TX Tileset Ground - \u8907\u88FD_89": -210538398241705440
+      "TX Tileset Ground - \u8907\u88FD_4": -5454096806299380440
+      "TX Tileset Ground - \u8907\u88FD_134": -4465091459517966471
+      "TX Tileset Ground - \u8907\u88FD_60": 1809449180421028920
+      "TX Tileset Ground - \u8907\u88FD_81": -2325291357566760247
+      "TX Tileset Ground - \u8907\u88FD_72": 328464390485371403
+      "TX Tileset Ground - \u8907\u88FD_100": 9062577045278595594
+      "TX Tileset Ground - \u8907\u88FD_150": 6983199859533961409
+      "TX Tileset Ground - \u8907\u88FD_106": -98864545544501379
+      "TX Tileset Ground - \u8907\u88FD_119": 3023733099791598544
+      "TX Tileset Ground - \u8907\u88FD_86": 8108973422927594282
+      "TX Tileset Ground - \u8907\u88FD_44": 2750197567701839696
+      "TX Tileset Ground - \u8907\u88FD_142": 7611869311279633782
+      "TX Tileset Ground - \u8907\u88FD_34": 7657533210990740523
+      "TX Tileset Ground - \u8907\u88FD_57": -8996629265551282922
+      "TX Tileset Ground - \u8907\u88FD_110": -1097874917539336335
+      "TX Tileset Ground - \u8907\u88FD_20": -2533540356672829768
+      "TX Tileset Ground - \u8907\u88FD_71": -129207184526614711
+      "TX Tileset Ground - \u8907\u88FD_102": 1215919172369405455
+      "TX Tileset Ground - \u8907\u88FD_96": 7326399213265974525
+      "TX Tileset Ground - \u8907\u88FD_114": -472997344299509294
+      "TX Tileset Ground - \u8907\u88FD_14": 7260164097079498228
+      "TX Tileset Ground - \u8907\u88FD_123": -8406311259988239365
+      "TX Tileset Ground - \u8907\u88FD_17": 7641838272719401005
+      "TX Tileset Ground - \u8907\u88FD_46": 2356342920990908707
+      "TX Tileset Ground - \u8907\u88FD_1": 6773739169390603855
+      "TX Tileset Ground - \u8907\u88FD_130": -7041350395933856930
+      "TX Tileset Ground - \u8907\u88FD_42": -8053073796276960798
+      "TX Tileset Ground - \u8907\u88FD_122": -4610878778169555361
+      "TX Tileset Ground - \u8907\u88FD_50": -7891841722620078002
+      "TX Tileset Ground - \u8907\u88FD_146": -2577638938187379851
+      "TX Tileset Ground - \u8907\u88FD_2": 7153300940788611999
+      "TX Tileset Ground - \u8907\u88FD_75": 5658934043481641134
+      "TX Tileset Ground - \u8907\u88FD_79": 4385060351593561399
+      "TX Tileset Ground - \u8907\u88FD_108": 2043665754697470821
+      "TX Tileset Ground - \u8907\u88FD_112": 8807797649015264537
+      "TX Tileset Ground - \u8907\u88FD_0": -330686154596502854
+      "TX Tileset Ground - \u8907\u88FD_15": -54418786251582137
+      "TX Tileset Ground - \u8907\u88FD_87": -1740462170188695440
+      "TX Tileset Ground - \u8907\u88FD_61": -1579821539188540647
+      "TX Tileset Ground - \u8907\u88FD_132": 8219134740800957642
+      "TX Tileset Ground - \u8907\u88FD_109": -5699961600515136131
+      "TX Tileset Ground - \u8907\u88FD_155": 3863888599200509026
+      "TX Tileset Ground - \u8907\u88FD_145": -3241153487503176812
+      "TX Tileset Ground - \u8907\u88FD_21": 2861895751082022733
+      "TX Tileset Ground - \u8907\u88FD_40": -7707914763988340201
+      "TX Tileset Ground - \u8907\u88FD_56": 4178245182852820176
+      "TX Tileset Ground - \u8907\u88FD_74": -5174899219743442446
+      "TX Tileset Ground - \u8907\u88FD_103": 2254176083707119376
+      "TX Tileset Ground - \u8907\u88FD_12": -2590550309924240265
+      "TX Tileset Ground - \u8907\u88FD_90": -3671036215332857074
+      "TX Tileset Ground - \u8907\u88FD_97": -5950714673188515083
+      "TX Tileset Ground - \u8907\u88FD_9": -4927371850719913545
+      "TX Tileset Ground - \u8907\u88FD_54": 4785139094219725437
+      "TX Tileset Ground - \u8907\u88FD_91": 274909024704697676
+      "TX Tileset Ground - \u8907\u88FD_66": 7998369327982415150
+      "TX Tileset Ground - \u8907\u88FD_152": 3533496441676301123
+      "TX Tileset Ground - \u8907\u88FD_59": 5289325627202584454
+      "TX Tileset Ground - \u8907\u88FD_13": -2257729876641922910
+      "TX Tileset Ground - \u8907\u88FD_49": 2183593914017935009
+      "TX Tileset Ground - \u8907\u88FD_69": -7649286241166508584
+      "TX Tileset Ground - \u8907\u88FD_62": 924797498683404510
+      "TX Tileset Ground - \u8907\u88FD_111": -3985297704799712804
+      "TX Tileset Ground - \u8907\u88FD_105": 7792433596076427054
+      "TX Tileset Ground - \u8907\u88FD_99": 6372273025788572137
+      "TX Tileset Ground - \u8907\u88FD_35": -3944143376822320367
+      "TX Tileset Ground - \u8907\u88FD_92": -3505219810966162897
+      "TX Tileset Ground - \u8907\u88FD_77": -5427113795945681097
+      "TX Tileset Ground - \u8907\u88FD_88": -3979950338763747371
+      "TX Tileset Ground - \u8907\u88FD_8": 6055834545278366151
+      "TX Tileset Ground - \u8907\u88FD_154": 3703005820539803779
+      "TX Tileset Ground - \u8907\u88FD_45": 6534033057157697462
+      "TX Tileset Ground - \u8907\u88FD_5": -7076405956017633702
+      "TX Tileset Ground - \u8907\u88FD_133": 8951188725401812424
+      "TX Tileset Ground - \u8907\u88FD_30": 7424938819281001614
+      "TX Tileset Ground - \u8907\u88FD_10": 1977223661931976364
+      "TX Tileset Ground - \u8907\u88FD_84": 1057879551638986343
+      "TX Tileset Ground - \u8907\u88FD_24": 8785041677456263074
+      "TX Tileset Ground - \u8907\u88FD_113": -6700051396468481751
+      "TX Tileset Ground - \u8907\u88FD_25": -6039924685957948671
+      "TX Tileset Ground - \u8907\u88FD_47": -8899866638977627031
+      "TX Tileset Ground - \u8907\u88FD_55": -2636279518970020211
+      "TX Tileset Ground - \u8907\u88FD_27": -3430344429626154319
+      "TX Tileset Ground - \u8907\u88FD_153": -1159923501227875294
+      "TX Tileset Ground - \u8907\u88FD_129": 5848695335595016088
+      "TX Tileset Ground - \u8907\u88FD_29": 7284206299498302430
+      "TX Tileset Ground - \u8907\u88FD_48": 8943922392547723866
+      "TX Tileset Ground - \u8907\u88FD_126": 3429351678256180360
+      "TX Tileset Ground - \u8907\u88FD_139": 6691290229338607573
+      "TX Tileset Ground - \u8907\u88FD_31": -6227824546853867260
+      "TX Tileset Ground - \u8907\u88FD_115": 5146747890335930088
+      "TX Tileset Ground - \u8907\u88FD_116": -1563572628550932068
+      "TX Tileset Ground - \u8907\u88FD_85": 2161223590376689708
+      "TX Tileset Ground - \u8907\u88FD_37": 3576173782374719742
+      "TX Tileset Ground - \u8907\u88FD_51": 8045034874706860857
+      "TX Tileset Ground - \u8907\u88FD_149": 8085667839225767509
+      "TX Tileset Ground - \u8907\u88FD_3": -4068542579714779102
+      "TX Tileset Ground - \u8907\u88FD_33": 8407969105374400146
+      "TX Tileset Ground - \u8907\u88FD_52": -6112427337529280291
+      "TX Tileset Ground - \u8907\u88FD_95": -5653422122211583543
+      "TX Tileset Ground - \u8907\u88FD_63": 6635800074150114498
+      "TX Tileset Ground - \u8907\u88FD_93": 1260957202347915146
+      "TX Tileset Ground - \u8907\u88FD_156": -586533020056234966
+      "TX Tileset Ground - \u8907\u88FD_73": 7941274553698031170
+      "TX Tileset Ground - \u8907\u88FD_32": 5903548822737735550
+      "TX Tileset Ground - \u8907\u88FD_80": -8947545693103191305
+      "TX Tileset Ground - \u8907\u88FD_104": -9095499333131906616
+      "TX Tileset Ground - \u8907\u88FD_16": -3317044575882688778
+      "TX Tileset Ground - \u8907\u88FD_67": 1132984559570618404
+      "TX Tileset Ground - \u8907\u88FD_36": 8989218132694484747
+      "TX Tileset Ground - \u8907\u88FD_83": -2859554272202205235
+      "TX Tileset Ground - \u8907\u88FD_26": 1393450597423907211
+      "TX Tileset Ground - \u8907\u88FD_127": -530548862705033846
+      "TX Tileset Ground - \u8907\u88FD_101": -720917736499277576
+      "TX Tileset Ground - \u8907\u88FD_41": -6524000046800783816
+      "TX Tileset Ground - \u8907\u88FD_135": 1166785723262543815
+      "TX Tileset Ground - \u8907\u88FD_18": -8951270862496003763
+      "TX Tileset Ground - \u8907\u88FD_118": -6387420474653001361
+      "TX Tileset Ground - \u8907\u88FD_136": -7680281077176605484
+      "TX Tileset Ground - \u8907\u88FD_107": 4529141690624159433
+      "TX Tileset Ground - \u8907\u88FD_144": -2200523154335762558
+      "TX Tileset Ground - \u8907\u88FD_19": -8781863496212430084
+      "TX Tileset Ground - \u8907\u88FD_143": -1201332384397614146
+      "TX Tileset Ground - \u8907\u88FD_39": -4402286822833873424
+      "TX Tileset Ground - \u8907\u88FD_148": -6076649792202943314
+      "TX Tileset Ground - \u8907\u88FD_82": -7741830529722424856
+      "TX Tileset Ground - \u8907\u88FD_7": 336418599170349117
+      "TX Tileset Ground - \u8907\u88FD_94": 8972343577611729270
+      "TX Tileset Ground - \u8907\u88FD_22": -2541269061866657025
+      "TX Tileset Ground - \u8907\u88FD_68": 1058963583752982471
+      "TX Tileset Ground - \u8907\u88FD_137": 6474719885300940951
+      "TX Tileset Ground - \u8907\u88FD_76": 2515368652865633547
+      "TX Tileset Ground - \u8907\u88FD_38": -2827910482364128016
+      "TX Tileset Ground - \u8907\u88FD_6": -2664944189940661904
+      "TX Tileset Ground - \u8907\u88FD_128": -4234784642975503691
+      "TX Tileset Ground - \u8907\u88FD_124": 8863791831384756010
+      "TX Tileset Ground - \u8907\u88FD_64": -2665865324209930307
+      "TX Tileset Ground - \u8907\u88FD_141": 1133069593241299019
+      "TX Tileset Ground - \u8907\u88FD_70": 7057230543507108655
+      "TX Tileset Ground - \u8907\u88FD_147": -8112407482062083424
+      "TX Tileset Ground - \u8907\u88FD_43": 4167285795093302353
+      "TX Tileset Ground - \u8907\u88FD_151": -4606883258435254480
+      "TX Tileset Ground - \u8907\u88FD_28": -150757382696020989
+      "TX Tileset Ground - \u8907\u88FD_131": -3107426205341794088
+      "TX Tileset Ground - \u8907\u88FD_140": 7848279974320584235
+      "TX Tileset Ground - \u8907\u88FD_53": 8869497257751386403
+      "TX Tileset Ground - \u8907\u88FD_98": 1267027681184825329
+      "TX Tileset Ground - \u8907\u88FD_121": -7634518793791479133
+      "TX Tileset Ground - \u8907\u88FD_23": 8170161409637403319
+      "TX Tileset Ground - \u8907\u88FD_65": 8481042811493690315
+      "TX Tileset Ground - \u8907\u88FD_58": 4362351056433127757
+      "TX Tileset Ground - \u8907\u88FD_120": -4348756686430345863
+      "TX Tileset Ground - \u8907\u88FD_125": -3232179389653925564
+      "TX Tileset Ground - \u8907\u88FD_117": -3601530010093221706
+      "TX Tileset Ground - \u8907\u88FD_138": 4680060831499300157
+      "TX Tileset Ground - \u8907\u88FD_78": 6858924706201411784
+      "TX Tileset Ground - \u8907\u88FD_11": 3704327815082012367
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
